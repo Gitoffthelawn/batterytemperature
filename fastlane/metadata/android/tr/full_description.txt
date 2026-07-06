@@ -1,4 +1,4 @@
-BatteryTemperatureDisplay, Android telefonunuzun gerçek zamanlı pil sıcaklığını gösterir. Bilgiler, diğer uygulamaları kullanırken bile durum çubuğundaki bir simgede ve bir bildirimde her zaman görünür.
+Battempa Battery Temperature Display, Android telefonunuzun gerçek zamanlı pil sıcaklığını gösterir. Bilgiler, diğer uygulamaları kullanırken bile durum çubuğundaki bir simgede ve bir bildirimde her zaman görünür.
 
 Pil sıcaklığını izlemenin pratik kullanımları:
 
@@ -35,6 +35,6 @@ Pil sıcaklığını izlemenin pratik kullanımları:
    🌡️ Fakir adamın termometresi
    Özel bir termometre yoksa, telefonunuzla herhangi bir odanın ortam sıcaklığını izleyin.
 
-Android Battery Temperature uygulaması, kendi akıllı telefonunuzdan başka bir şey kullanmadan sıcaklık verilerini izlemek, kaydetmek ve bunlara göre hareket etmek isteyen herkes için bir araçtır. Uygulama hem bir güvenlik aracı hem de çok amaçlı bir sıcaklık izleme çözümü olabilir.
+Battempa Android Battery Temperature uygulaması, kendi akıllı telefonunuzdan başka bir şey kullanmadan sıcaklık verilerini izlemek, kaydetmek ve bunlara göre hareket etmek isteyen herkes için bir araçtır. Uygulama hem bir güvenlik aracı hem de çok amaçlı bir sıcaklık izleme çözümü olabilir.
 
 Eugen Barilyuk EB43 tarafından oluşturuldu https://eb43.github.io
