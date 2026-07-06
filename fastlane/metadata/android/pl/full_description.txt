@@ -1,4 +1,4 @@
-BatteryTemperatureDisplay pokazuje temperaturę baterii telefonu Android w czasie rzeczywistym. Informacja jest zawsze widoczna w ikonie na pasku stanu i w powiadomieniu, nawet podczas korzystania z innych aplikacji.
+Battempa Battery Temperature Display pokazuje temperaturę baterii telefonu Android w czasie rzeczywistym. Informacja jest zawsze widoczna w ikonie na pasku stanu i w powiadomieniu, nawet podczas korzystania z innych aplikacji.
 
 Praktyczne zastosowania monitorowania temperatury baterii:
 
@@ -35,6 +35,6 @@ Praktyczne zastosowania monitorowania temperatury baterii:
    🌡️ Termometr dla ubogich
    Śledź temperaturę otoczenia dowolnego pokoju za pomocą telefonu, jeśli nie ma dostępnego dedykowanego termometru.
 
-Aplikacja Android Battery Temperature to narzędzie dla każdego, kto chce monitorować i działać na podstawie danych o temperaturze, używając tylko własnego smartfona. Aplikacja może być zarówno instrumentem bezpieczeństwa, jak i wielofunkcyjnym rozwiązaniem do monitorowania temperatury.
+Aplikacja Battempa Android Battery Temperature to narzędzie dla każdego, kto chce monitorować i działać na podstawie danych o temperaturze, używając tylko własnego smartfona. Aplikacja może być zarówno instrumentem bezpieczeństwa, jak i wielofunkcyjnym rozwiązaniem do monitorowania temperatury.
 
 Stworzona przez Eugen Barilyuk EB43 https://eb43.github.io
